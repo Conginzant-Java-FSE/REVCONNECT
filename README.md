@@ -46,11 +46,11 @@ Recommended keys:
 ./mvnw spring-boot:run
 ```
 
-App runs on http://localhost:8081 by default.
+App runs on http://localhost:8080 by default.
 
 ## API Docs
 Swagger UI is available at:
-http://localhost:8081/swagger-ui.html
+http://localhost:8080/swagger-ui.html
 
 ## Tests
 ```bash
