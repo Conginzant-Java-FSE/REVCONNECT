@@ -73,3 +73,6 @@ src/main/java/org/revature/revconnect
   security/
 src/main/resources
 ```
+
+## Frontend Git Repo Link
+https://github.com/Conginzant-Java-FSE/revconnect-app
